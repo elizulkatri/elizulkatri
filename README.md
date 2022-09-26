@@ -1,5 +1,5 @@
-### Hi there 👋, Eli Zulkatri
-#### Data Analysis dan Data Science
+Eli Zulkatri
+Data Analysis dan Data Science
 ![Data Analysis dan Data Science](https://elizulkatri.github.io/github-profile-readme-generator/images/banner.png)
 
 I believe that data tells us more than just numbers, it helps us understand our users and their desires. So that's why I really enjoy learning data analysis and data science. I have 2 years of experience in data analytics since I started my master's degree from the Institute of Technology Bandung with an actuarial science specialization. Now I am working in product management in Shopee Indonesia but I am still hoping that I can work as a data analyst. Just give me a chance, and I will prove that I can be your data analyst.
