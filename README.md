@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Eli Zulkatri
+#### Data Analysis dan Data Science
+![Data Analysis dan Data Science](https://elizulkatri.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**elizulkatri/elizulkatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I believe that data tells us more than just numbers, it helps us understand our users and their desires. So that's why I really enjoy learning data analysis and data science. I have 2 years of experience in data analytics since I started my master's degree from the Institute of Technology Bandung with an actuarial science specialization. Now I am working in product management in Shopee Indonesia but I am still hoping that I can work as a data analyst. Just give me a chance, and I will prove that I can be your data analyst.
+I am now skilled in SQL, Excel, Python, and Power BI/Tableau.  
 
-Here are some ideas to get you started:
+Skills: Excel / SQL / Python / Power BI / R
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/elizulkatri)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/eli-zulkatri/)  
+
